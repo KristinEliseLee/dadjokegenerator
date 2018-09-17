@@ -1,0 +1,4 @@
+env/*
+all_jokes.txt
+save.txt
+*.pyc
